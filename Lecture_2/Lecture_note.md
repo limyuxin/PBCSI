@@ -90,6 +90,7 @@ cout<<"Welcome to PBCSI""<<endl;
 add this line below:
 ```
 cout<<"Hello world"<<endl;
+```
 press `F11` again to run.
 9.
 
