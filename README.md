@@ -1,6 +1,6 @@
 # PBCSI
 
-A cources provided by Lee Zheng Long from L3education
+A courses provided by Lee Zheng Long from L3education
 
 ## Documentation
 
