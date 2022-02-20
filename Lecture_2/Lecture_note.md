@@ -64,7 +64,7 @@ and nervous here.
 2. Do the exact same thing when install the `DEV C++` by using your browser.
 3. Login your `GitHub Desktop`with your `GitHub`account.
 
-##### Highlight for today
+### Highlight for today
 
 1. Get back to the `GitHub`page on your browser.
 (Make sure you are located in the `leezhenglong-dev/PBCSI`.)
