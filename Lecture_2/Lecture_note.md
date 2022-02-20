@@ -4,7 +4,7 @@
 
 ##### Description
 
-- Dev C++ is a light-weighted IDE (integrated development environment)
+- Dev C++ is a light-weighted **IDE** (integrated development environment)
 
 - Dev C++ enable you to write C++ cource code, compile code, run the program 
    and debug code
@@ -25,7 +25,7 @@ using your browser.
 repository(storehub for codes), view other public source code, show off your skill, feel helpful
 and nervous here.
 
-- All the resources such as source code, lecture note, and addtional web resources(URL links)
+- All the resources such as source code, lecture note, and additional web resources(URL links)
  will be provided here
 
 - All the resources will be categorized into seperated file according to lecture
@@ -68,7 +68,7 @@ and nervous here.
 
 1. Get back to the `GitHub`page on your browser.
 (Make sure you are located in the `leezhenglong-dev/PBCSI`.)
-2 .Click the green `code`button and click `open with GitHub Desktop`.
+2. Click the green `code`button and click `open with GitHub Desktop`.
 3. Click the `Open GitHub Desktop` in the popup.(Then the browser will
 take you the GitHub Desktop software which installed in your machine.)
 4. Now you are located in GitHub Desktop.At the buttom of the window where the `local path`
@@ -82,12 +82,15 @@ resipotary.
 6. There should be a .cpp file which created by the tutor.Open it with the `Dev C++`
 you downloaded just now.
 7. Compile and run it with the shortcut key `F11`.
-8. Get back to the GitHub desktop, seek for the tab current branch`on top.
+8. Get back to the GitHub desktop, seek for the tab `current branch`on top.
 9. Click it and ,`new branch`, type your name, then `create branch`.
 >WARNING : Check your current branch everytime when you try to edit something
->Futher explaination will be in the future.
+>Futher explaination will be in the future
 
-10. Get back to the `DEV C++`
+>Only make any changes in your branch.
+
+10. Get back to the `DEV C++`.
+
  Below the line
 ```
 cout<<"Welcome to PBCSI""<<endl;
@@ -97,7 +100,12 @@ add this line below:
 cout<<"Hello world"<<endl;
 ```
 press `F11` again to run.
-```
+
+11. If the programs run successfully, Congrats.
+12. Get back to the GitHub Desktop last time, you will see a `change` message on the left side.
+13. At the lower left, there will be a `Summit change`icon, press it.
+14. At last, seek for the tab `Push origin` on the top, press it to(it will put your change onto the GitHub online.)
+
 ---
 end of this lecture note.
 
