@@ -77,13 +77,18 @@ You can use the default option. Make sure you memorize the path.
 >Now everything the tutor,you,and your classmates created,edited,deleted will be 
 >there in your machine!
 
-5.branch
 5. Open the `File Explorer` in your computer.Go to the folder where you store the
 resipotary.
 6. There should be a .cpp file which created by the tutor.Open it with the `Dev C++`
 you downloaded just now.
-7.Compile and run it with the shortcut key `F11`.
-8. Below the line
+7. Compile and run it with the shortcut key `F11`.
+8. Get back to the GitHub desktop, seek for the tab current branch`on top.
+9. Click it and ,`new branch`, type your name, then `create branch`.
+>WARNING : Check your current branch everytime when you try to edit something
+>Futher explaination will be in the future.
+
+10. Get back to the `DEV C++`
+ Below the line
 ```
 cout<<"Welcome to PBCSI""<<endl;
 ```
@@ -92,7 +97,9 @@ add this line below:
 cout<<"Hello world"<<endl;
 ```
 press `F11` again to run.
-9.
+```
+---
+end of this lecture note.
 
 
 
