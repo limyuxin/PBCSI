@@ -106,7 +106,23 @@ press `F11` again to run.
 13. At the lower left, there will be a `Summit change`icon, press it.
 14. At last, seek for the tab `Push origin` on the top, press it to(it will put your change onto the GitHub online.)
 
----
+### Summary
+
+##### Read codes
+
+use`Dev C++`
+
+##### GitHub manupulation
+
+  1. **switch to your own `branch`**
+  2. (writing your codes in `Dev C++`)
+  3. `commit change`
+  4. `push origin`
+ 
+##### GitHub
+
+- read the lecture notes in `leezhenglong-dev/PBCSI`
+ 
 end of this lecture note.
 
 
