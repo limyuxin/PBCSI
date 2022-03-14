@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	cout<<"Welcome to PBCSI""<<endl;
+	cout<<"Welcome to PBCSI"<<endl;
 	
 	return 0;
 }
