@@ -1,12 +1,9 @@
-//PBCSI Lecture_2 test_program
-
-#include<iostream>
-using namespace std;
+@ -5,7 +5,18 @@ using namespace std;
 
 int main()
 {
-	int x = 123;  //integer 
-	char y = 'z'; //character
+	int x = 1;  //integer 
+	char y = 'u'; //character
 	string z = "apple orange watermelon";  //word, sentence
 	
 	//output
